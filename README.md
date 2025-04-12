@@ -1,9 +1,9 @@
 # Welcome! 👋
 
 I am currently a junior pursuing a **Bachelor’s degree in Artificial Intelligence**. My academic and research interests include:
-
-- **Robotic Control and Perception**🤖
-- **Deep Learning** 
+- **3D-LLM/CoT**👀
+- **Robotic Algorithm**🤖
+- **Deep Learning**💻 
 
 **Future Aspirations:**
 
