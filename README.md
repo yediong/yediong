@@ -1,6 +1,6 @@
 # Welcome! 👋
 
-I am currently a junior pursuing a **Bachelor’s degree in Artificial Intelligence**. My academic and research interests include:
+I am currently a senior pursuing a **Bachelor’s degree in Artificial Intelligence**. My academic and research interests include:
 - **3D-LLM**👀
 - **Embodied AI**🤖
 - **Deep Learning**🧠 
