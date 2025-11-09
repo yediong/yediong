@@ -1,8 +1,8 @@
 # Welcome! 👋
 
-I am currently a senior pursuing a **Bachelor’s degree in Artificial Intelligence**. My academic and research interests include:
-- **3D-LLM**👀
-- **Embodied AI**🤖
+I am currently a senior at Huazhong University of Science and Technology (HUST), pursuing a Bachelor’s degree in Artificial Intelligence. I am also an incoming Ph.D. student in Computer Science at Zhejiang University (ZJU). My academic and research interests include:
+- **Embodied AI**🤖(Currently focusing on Motion Tracking)
+- **MLLM**👀
 - **Deep Learning**🧠 
 
 **Future Aspirations:**
