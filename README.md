@@ -18,6 +18,6 @@ Thank you for visiting my page! 🙏
 <!--Profile Count Badge-->
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=WiserZhou&label=Profile%20views&color=yellow&style=for-the-badge&logo=star&base=0&abbreviated=true" alt="Kiran1689" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=yediong&label=Profile%20views&color=yellow&style=for-the-badge&logo=star&base=0&abbreviated=true" alt="Kiran1689" style="padding-right:20px;" />
 </p>
 
