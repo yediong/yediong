@@ -15,3 +15,9 @@ For a comprehensive overview of my projects and contributions, please visit my [
 
 Thank you for visiting my page! 🙏
 
+<!--Profile Count Badge-->
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=WiserZhou&label=Profile%20views&color=yellow&style=for-the-badge&logo=star&base=0&abbreviated=true" alt="Kiran1689" style="padding-right:20px;" />
+</p>
+
