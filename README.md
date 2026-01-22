@@ -9,7 +9,7 @@ My research centers on **Generative Embodied AI**, aiming to scale up robot lear
 
 **Future Aspirations:**
 
-Research Focus 🚀: I am dedicated to exploring **Unified Cross-Modal Representations and Video Dynamics**, building autonomous systems that can perceive and interact with the physical world through generative models. 
+🚀 I am dedicated to exploring **Unified Cross-Modal Representations and Video Dynamics**, building autonomous systems that can perceive and interact with the physical world through generative models. 
 
 I am eager to connect with fellow professionals, researchers, and enthusiasts in the AI community. Feel free to reach out to me via email at [yth040313@gmail.com](mailto:yth040313@gmail.com) 📧 to discuss potential collaborations or shared interests.
 
