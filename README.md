@@ -1,19 +1,17 @@
 # Welcome! 👋
 
-I am currently a senior at **Huazhong University of Science and Technology**, pursuing a Bachelor’s degree in Artificial Intelligence. I am also an incoming Ph.D. student in the College of Computer Science and Technology at **Zhejiang University**. My academic and research interests include:
-- **Embodied AI**🤖 (Currently focusing on Motion Foundation Model)
-- **MLLM** 👀
-- **Video Understanding and Generation** 🧠 
+I am currently a senior majoring in Artificial Intelligence at **Huazhong University of Science and Technology**. I am also an incoming Ph.D. student in the College of Computer Science and Technology at **Zhejiang University**. 
 
-<p align="left">
-  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/yediong">
-</p>
+My research centers on **Generative Embodied AI**, aiming to scale up robot learning by bridging internet-scale data with physical execution. My core interests include:
+- **Motion Foundation Models** 🤖 
+- **Video-Driven Policy Learning** 🧠
+- **Generalist Humanoid Control ** 🦾
 
 **Future Aspirations:**
 
-I am passionate about **Robotics** combined with **MLLM** and intend to conduct advanced research in this field to drive innovative solutions and applications. 🚀
+Research Focus: I am dedicated to exploring Unified Cross-Modal Representations and Video Dynamics, building autonomous systems that can perceive and interact with the physical world through generative models. 🚀
 
-I am eager to connect with fellow professionals, researchers, and enthusiasts in the AI communities. Feel free to reach out to me via email at [yth040313@gmail.com](mailto:yth040313@gmail.com) 📧 to discuss potential collaborations or shared interests.
+I am eager to connect with fellow professionals, researchers, and enthusiasts in the AI community. Feel free to reach out to me via email at [yth040313@gmail.com](mailto:yth040313@gmail.com) 📧 to discuss potential collaborations or shared interests.
 
 For a comprehensive overview of my projects and contributions, please visit my [Homepage](https://yediong.github.io). 💻
 
@@ -29,6 +27,10 @@ Thank you for visiting my page! 🙏
   <!-- <a href="https://www.zhihu.com/people/mario-chen-65" target="_blank"><img src="./files/icon/zhihu.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;  -->
   <a href="https://www.xiaohongshu.com/user/profile/639494a4000000002702ad5d" target="_blank"><img src="./files/icon/xiaohongshu.png" height="31px" style="margin-bottom:-4px"></a>
   <!-- <a href="https://visitorbadge.io/status?path=https%3A%2F%2Ftianxingchen.github.io%2F"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Ftianxingchen.github.io%2F&labelColor=%232ccce4&countColor=%230158f9" /></a> -->
+</p>
+
+<p align="left">
+  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/yediong">
 </p>
 
 <!--Profile Count Badge-->
