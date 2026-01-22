@@ -5,7 +5,7 @@ I am currently a senior majoring in Artificial Intelligence at **Huazhong Univer
 My research centers on **Generative Embodied AI**, aiming to scale up robot learning by bridging internet-scale data with physical execution. My core interests include:
 - **Motion Foundation Models** 🤖 
 - **Video-Driven Policy Learning** 🧠
-- **Generalist Humanoid Control ** 🦾
+- **Generalist Humanoid Control** 🦾
 
 **Future Aspirations:**
 
