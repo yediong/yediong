@@ -26,6 +26,7 @@ Thank you for visiting my page! 🙏
   <a href="https://space.bilibili.com/398643661?spm_id_from=333.1387.0.0" target="_blank"><img src="./files/icon/bilibili.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
   <!-- <a href="https://www.zhihu.com/people/mario-chen-65" target="_blank"><img src="./files/icon/zhihu.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;  -->
   <a href="https://www.xiaohongshu.com/user/profile/639494a4000000002702ad5d" target="_blank"><img src="./files/icon/xiaohongshu.png" height="31px" style="margin-bottom:-4px"></a>
+  <a href="https://blog.csdn.net/Ye_diong?spm=1000.2115.3001.5343" target="_blank"><img src="./files/icon/csdn.png" height="31px" style="margin-bottom:-4px"></a>
   <!-- <a href="https://visitorbadge.io/status?path=https%3A%2F%2Ftianxingchen.github.io%2F"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Ftianxingchen.github.io%2F&labelColor=%232ccce4&countColor=%230158f9" /></a> -->
 </p>
 
