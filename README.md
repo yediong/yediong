@@ -1,8 +1,6 @@
 # Welcome! 👋
 
-I am currently a senior majoring in Artificial Intelligence at **Huazhong University of Science and Technology**. I am also an incoming Ph.D. student in the College of Computer Science and Technology at **Zhejiang University**. 
-
-My research centers on **Generative Embodied AI**, aiming to scale up robot learning by bridging internet-scale data with physical execution. My core interests include:
+I am currently a Ph.D. student in Artificial Intelligence at **Zhejiang University**. My research centers on **Generative Embodied AI**, aiming to scale up robot learning by bridging internet-scale data with physical execution. My core interests include:
 - **Motion Foundation Models** 🤖 
 - **Video-Driven Policy Learning** 🧠
 - **Generalist Humanoid Control** 🦾
